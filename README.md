@@ -31,3 +31,4 @@ or for both labs
 Enter the test directory, run all unit tests.
 
 `cd build && ctest -VV -R "database_*" -j`
+# bytedance-database-project
